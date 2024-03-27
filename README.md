@@ -286,9 +286,9 @@ Here is what I ended up doing -
 
 
 9. The trick here is to change the coordinates to the line you want.
-    4. The formatting on the coordinates is basically point 1, then a space, then point 2, then a space, then point 3, then a space, then point 4, etc….
-    5. I pulled the specific coordinates of my line points from elsewhere in the file as I had previously saved them as “SW Corner of Parcel 1” or “SE Corner of Parcel 1” and so on.  I just copied and pasted the lat/longs.  
-    6. I left the third bit of data as 0 so the line would be pinned to the group.  If you wanted height you could change the 0 to whatever value in meters.  
+    1. The formatting on the coordinates is basically point 1, then a space, then point 2, then a space, then point 3, then a space, then point 4, etc….
+    2. I pulled the specific coordinates of my line points from elsewhere in the file as I had previously saved them as “SW Corner of Parcel 1” or “SE Corner of Parcel 1” and so on.  I just copied and pasted the lat/longs.  
+    3. I left the third bit of data as 0 so the line would be pinned to the group.  If you wanted height you could change the 0 to whatever value in meters.  
 10. You can then copy and paste the block of XML code for all the lines you want.  Like this - 
     * ![](images/image1.png)
 
@@ -323,7 +323,6 @@ There may be a way to do this with the SWMaps tool for Windows Desktops, but I f
     12. Create a new project - I mimic the name I used on the files above - “2024 SmithLand”
     13. Go to Layers
     14. Touch add layer
-    15. 
 
 
 ## How to get data from SW Maps to use in Google Earth Pro
