@@ -8,7 +8,7 @@ Write-up on my high accuracy/precision, cost effective, and easy to use GPS solu
 
 2024-March-RCB
 
-![](images/image9.png=250x)
+![](images/image9.png =250x)
 
 
 # Abstract
