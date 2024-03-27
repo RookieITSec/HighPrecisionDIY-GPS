@@ -280,7 +280,7 @@ Here is what I ended up doing -
     2. Note - your location may be different depending on install and OS.  
 6. Open the file in a text editor like Notepad or Notepad++
 7. It will look something like this (when using Notepad++ with XML formatting)
-    3. 
+    3. ![](images/image6.png)
 
 
 
@@ -290,13 +290,13 @@ Here is what I ended up doing -
     5. I pulled the specific coordinates of my line points from elsewhere in the file as I had previously saved them as “SW Corner of Parcel 1” or “SE Corner of Parcel 1” and so on.  I just copied and pasted the lat/longs.  
     6. I left the third bit of data as 0 so the line would be pinned to the group.  If you wanted height you could change the 0 to whatever value in meters.  
 9. You can then copy and paste the block of XML code for all the lines you want.  Like this - 
-    7. 
+    7. ![](images/image1.png)
 
 
 
 10. Save the KML file in the text editor and open Google Earth Pro
 11. Your line(s) should now appear in the left side and display on the map - 
-    8. 
+    8. ![](images/image4.png)
 
 
 
@@ -434,13 +434,9 @@ In March 2024 -
 
 
 * Photos - 
-    * 
-
-
-    * 
-
-
-    * 
+*   ![](images/image9.png)
+*   ![](images/image8.png)
+*   ![](images/image7.png)
 
 
 * State Data Sheet - 
@@ -466,13 +462,9 @@ In March 2024 -
 
 
 * Photos - 
-    * 
-
-
-    * 
-
-
-    * 
+*   ![](images/image14.png)
+*   ![](images/image12.png)
+*   ![](images/image10.png)
 
 
 
@@ -500,15 +492,9 @@ In March 2024 -
 
 
 * Photos - 
-    * 
-
-
-
-    * 
-
-
-
-    * 
+*   ![](images/image3.png)
+*   ![](images/image2.png)
+*   ![](images/image13.png)
 
 
 
@@ -545,6 +531,7 @@ In March 2024 -
 * Given the stated accuracy of the corner card and GIS, all points fall well within the margin of error.  
 
 
+![](images/image11.jpg)![](images/image5.jpg)
 
 
 
