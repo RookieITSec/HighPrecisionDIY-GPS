@@ -280,22 +280,22 @@ Here is what I ended up doing -
     2. Note - your location may be different depending on install and OS.  
 6. Open the file in a text editor like Notepad or Notepad++
 7. It will look something like this (when using Notepad++ with XML formatting)
-    3. ![](images/image6.png)
+   * ![](images/image6.png)
 
 
 
 
-8. The trick here is to change the coordinates to the line you want.
+9. The trick here is to change the coordinates to the line you want.
     4. The formatting on the coordinates is basically point 1, then a space, then point 2, then a space, then point 3, then a space, then point 4, etc….
     5. I pulled the specific coordinates of my line points from elsewhere in the file as I had previously saved them as “SW Corner of Parcel 1” or “SE Corner of Parcel 1” and so on.  I just copied and pasted the lat/longs.  
     6. I left the third bit of data as 0 so the line would be pinned to the group.  If you wanted height you could change the 0 to whatever value in meters.  
-9. You can then copy and paste the block of XML code for all the lines you want.  Like this - 
-    7. ![](images/image1.png)
+10. You can then copy and paste the block of XML code for all the lines you want.  Like this - 
+    * ![](images/image1.png)
 
 
 
-10. Save the KML file in the text editor and open Google Earth Pro
-11. Your line(s) should now appear in the left side and display on the map - 
+11. Save the KML file in the text editor and open Google Earth Pro
+12. Your line(s) should now appear in the left side and display on the map - 
     8. ![](images/image4.png)
 
 
