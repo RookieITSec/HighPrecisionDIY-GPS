@@ -1,7 +1,7 @@
 # HighPrecisionDIY-GPS
 Write-up on my high accuracy/precision, cost effective, and easy to use GPS solution
 
-<span style="font-size:2em;">Work in Progress...</span>
+# Work in Progress...
 
 
 # High Precision DIY GPS
