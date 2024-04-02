@@ -315,14 +315,14 @@ There may be a way to do this with the SWMaps tool for Windows Desktops, but I f
         1. 2024-04-01-SmithLand-CornerPoints and 2024-04-01-SmithLand-LinesviaCornerPt
     6. Repeat for all the points you want to transfer over to SW maps.  I have 4-6 files per project in my use case, but yours may be different.  
 2. On SW Maps on the mobile device - 
-    7. Launch “Files” app
-    8. Locate the files you want to import - in my case, i used Dropbox folder “1 Maps”
-    9. Select and copy the files you want to import.  This is a bit different for iOS and Android, but basically, i can select multiple files and then “copy”
-    10. Copy to the SW Maps folder - Device files - SW maps - Layers - KML
-    11. Launch SW Maps
-    12. Create a new project - I mimic the name I used on the files above - “2024 SmithLand”
-    13. Go to Layers
-    14. Touch add layer
+   * Launch “Files” app
+   * Locate the files you want to import - in my case, i used Dropbox folder “1 Maps”
+   * Select and copy the files you want to import.  This is a bit different for iOS and Android, but basically, i can select multiple files and then “copy”
+   * Copy to the SW Maps folder - Device files - SW maps - Layers - KML
+   * Launch SW Maps
+   * Create a new project - I mimic the name I used on the files above - “2024 SmithLand”
+   * Go to Layers
+   * Touch add layer
 
 
 ## How to get data from SW Maps to use in Google Earth Pro
